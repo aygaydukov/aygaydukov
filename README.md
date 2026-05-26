@@ -1,1 +1,1 @@
-![Welcome](/5_dog.glf)
+![Welcome](./5_dog.gif)

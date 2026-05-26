@@ -1,7 +1,7 @@
 <div align="left">
 
 <a href="https://gladiatorsarena.space/404/index.html">
-  <img src="./5_dog.gif" width="210" align="left" alt="Click the dog to try my game" style="margin-right: 24px;" />
+  <img src="./5_dog.gif" width="105" align="left" alt="Click the dog to try my game" style="margin-right: 24px;" />
 </a>
 
 <p><em>Click the dog to try my game</em></p>
